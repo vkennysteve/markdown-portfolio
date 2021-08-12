@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+## I will leave a link to my profile so you can Follow me on Github
+[My Github Profile](https://github.com/vkennysteve)
